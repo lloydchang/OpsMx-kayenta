@@ -44,4 +44,10 @@ You should then be able to access your local kayenta instance at http://localhos
 
 
 
+$${\color{lightblue} Recent \space commits:}$$ 
+
+              CommitID                   |   Author      | Commit Message          | Commit Date
+----------------------------------------------------------------------------------------------------
+
+
 024a4ff649e5fbbcd0f971e4acae932cba0d297f | Yugandharkumar | Create commits-preserve.yml | 2023-08-09 
